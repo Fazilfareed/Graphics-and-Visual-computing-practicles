@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "second_day", "second_day\second_day.vcxproj", "{3F0CCE5F-3C43-4E82-BDA5-D5CA533DA952}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "project.cpp", "project.cpp\project.cpp.vcxproj", "{88AD7C84-F350-4AED-88FD-303AE4B88583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0CCE5F-3C43-4E82-BDA5-D5CA533DA952}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F0CCE5F-3C43-4E82-BDA5-D5CA533DA952}.Debug|Win32.Build.0 = Debug|Win32
+		{3F0CCE5F-3C43-4E82-BDA5-D5CA533DA952}.Release|Win32.ActiveCfg = Release|Win32
+		{3F0CCE5F-3C43-4E82-BDA5-D5CA533DA952}.Release|Win32.Build.0 = Release|Win32
+		{88AD7C84-F350-4AED-88FD-303AE4B88583}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88AD7C84-F350-4AED-88FD-303AE4B88583}.Debug|Win32.Build.0 = Debug|Win32
+		{88AD7C84-F350-4AED-88FD-303AE4B88583}.Release|Win32.ActiveCfg = Release|Win32
+		{88AD7C84-F350-4AED-88FD-303AE4B88583}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

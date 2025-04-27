@@ -1,0 +1,22 @@
+﻿Build started 3/14/2025 10:35:20 AM.
+     1>Project "E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\mouseEvent\mouseEvent.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mouseEvent.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mouseEvent.cpp
+         mouseEvent.cpp
+     1>e:\2021csc105\computer programming 3\graphics\20250307\mouseevent\mouseevent\mouseevent.cpp(29): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mouseEvent.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.lib" /MACHINE:X86 Debug\mouseEvent.obj
+         LINK : E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.exe not found or not built by the last incremental link; performing full link
+         mouseEvent.vcxproj -> E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\Debug\mouseEvent.exe;#1" /manifest Debug\mouseEvent.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\mouseEvent.unsuccessfulbuild".
+         Touching "Debug\mouseEvent.lastbuildstate".
+     1>Done Building Project "E:\2021csc105\Computer programming 3\graphics\20250307\mouseEvent\mouseEvent\mouseEvent.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

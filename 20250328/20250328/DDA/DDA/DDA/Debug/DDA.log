@@ -1,0 +1,14 @@
+﻿Build started 4/5/2025 9:14:36 PM.
+     1>Project "E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\DDA\DDA\DDA\DDA.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\DDA.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\DDA\DDA\Debug\DDA.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DDA.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\DDA\DDA\Debug\DDA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\DDA\DDA\Debug\DDA.lib" /MACHINE:X86 Debug\DDA.obj
+     1>LINK : fatal error LNK1104: cannot open file 'glut32.lib'
+     1>Done Building Project "E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\DDA\DDA\DDA\DDA.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56

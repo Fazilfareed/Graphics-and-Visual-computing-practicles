@@ -1,0 +1,7 @@
+microsoft visual studio
+
+creating new project empty file with visual c++
+	setting a path and giving a name for it
+project --> add new item --> cpp file
+
+opengl is an api and glut is a toolkit(is written by a person)

@@ -1,0 +1,19 @@
+﻿Build started 4/6/2025 11:04:39 AM.
+     1>Project "E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\exercise2\exercise2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\exercise2.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\Debug\exercise2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\exercise2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\Debug\exercise2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\Debug\exercise2.lib" /MACHINE:X86 Debug\exercise1.obj
+         exercise2.vcxproj -> E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\Debug\exercise2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\Debug\exercise2.exe;#1" /manifest Debug\exercise2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\exercise2.unsuccessfulbuild".
+         Touching "Debug\exercise2.lastbuildstate".
+     1>Done Building Project "E:\3rd year\1st sem\csc302s2 computer programming 3\graphics\20250328\20250328\midpointCircle\exercise2\exercise2\exercise2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.04
